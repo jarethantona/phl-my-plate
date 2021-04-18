@@ -6,5 +6,5 @@ A Philadelphia restaurant recommendation tool built using Vue.js, Java, Spring, 
 
 Clone locally and run `npm install`
 
-To start, run `npm run serve`
+Run `npm run serve`
 
